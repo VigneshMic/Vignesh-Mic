@@ -1,6 +1,6 @@
 # Vignesh-Mic
 
-<![MasterHead]([https://tse4.mm.bing.net/th/id/OIP.SRMHtsU5gUBLa484nmkGHwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3])>
+[![MasterHead](https://tse4.mm.bing.net/th/id/OIP.SRMHtsU5gUBLa484nmkGHwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3)]
 <h1 align="center">Hi 👋, I'm VIGNESH MIC</h1>
 <h3 align="center">An Aspiring Data Analyst / Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
