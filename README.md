@@ -1,9 +1,9 @@
 # Vignesh-Mic
 
-[![MasterHead]([ https://th.bing.com/th/id/OIP.YGkdvJ595zkLk-pShBd0WQHaDF?w=307&h=145&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3])]
+[![MasterHead]([https://tse4.mm.bing.net/th/id/OIP.SRMHtsU5gUBLa484nmkGHwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3])]
 <h1 align="center">Hi 👋, I'm VIGNESH MIC</h1>
 <h3 align="center">An Aspiring Data Analyst / Data Engineer</h3>
-<img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshmic&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshmic" /> </p>
 
