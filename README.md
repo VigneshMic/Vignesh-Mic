@@ -1,7 +1,7 @@
 # Vignesh-Mic
 
 <img src="https://www.bing.com/th/id/OGC.df3b930a59221a5f23ea8c1d290d87bd?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fimarticus.org%2fblog%2fwp-content%2fuploads%2f2019%2f05%2fdaonline.gif&ehk=2sXncnVPFMZZn2qoX5B8XC0Hn4mlWSeOFu02otg1HqU%3d"
-     width="800" height="500" alt="image">
+     width="800" height="300" alt="image">
 <h1 align="center">Hi 👋, I'm VIGNESH MIC</h1>
 <h3 align="center">An Aspiring Data Analyst / Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
